@@ -1,0 +1,32 @@
+"""
+print()-->end,sep
+input()
+int(value),float(input())
+int,str,float
+--------------------------
+if block
+if -else
+if -elif----->else
+for loop
+while loop
+break keyword
+"""
+
+
+"""
+pandas
+read_csv,read_excel
+functions,routines--->values,default,keyword,etc
+
+-----------------------------------------------
+rows,columns from a dataframe
+filters or conditions
+sum,max,min,mean/average
+value_counts
+
+--------------------
+
+dictionaries
+create,update,pop,get
+
+"""
